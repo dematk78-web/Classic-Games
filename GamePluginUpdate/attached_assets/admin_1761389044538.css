@@ -1,0 +1,90 @@
+.dlcg-admin-wrap {
+    background: #f0f0f1;
+    margin: 20px 20px 0 0;
+}
+
+.dlcg-admin-container {
+    max-width: 1200px;
+}
+
+.dlcg-admin-card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    padding: 24px;
+    margin-bottom: 20px;
+}
+
+.dlcg-admin-card h2 {
+    margin-top: 0;
+    color: #1d2327;
+    font-size: 24px;
+}
+
+.dlcg-admin-card h3 {
+    color: #2c3338;
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.dlcg-shortcode-section {
+    border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+}
+
+.dlcg-shortcode-section:last-child {
+    border-bottom: none;
+}
+
+.dlcg-shortcode-box {
+    background: #f6f7f7;
+    border: 1px solid #c3c4c7;
+    border-radius: 4px;
+    padding: 12px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dlcg-shortcode-box code {
+    font-size: 14px;
+    color: #2271b1;
+    background: none;
+}
+
+.dlcg-copy-btn {
+    margin-left: 10px;
+}
+
+.dlcg-features-list {
+    list-style: none;
+    padding: 0;
+}
+
+.dlcg-features-list li {
+    padding: 8px 0;
+    font-size: 15px;
+}
+
+.description {
+    color: #646970;
+    font-size: 13px;
+    margin: 10px 0 5px;
+}
+
+.example {
+    background: #f0f6fc;
+    border-left: 3px solid #2271b1;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 13px;
+}
+
+.dlcg-admin-card ul {
+    line-height: 1.8;
+}
+
+.dlcg-admin-card ol {
+    line-height: 1.8;
+}
